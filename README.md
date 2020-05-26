@@ -1,26 +1,27 @@
 # Major-Project-Submissions
 
-## Team Memembers
-Kaustav Ghosh
+## Team Memembers:
 
-Atish Rout
+### Kaustav Ghosh
 
-Shreya Chandana
+### Atish Rout
 
-Rajanika Debnath
+### Shreya Chandana
 
-deepakharol
+### Rajanika Debnath
 
-Navya Kumar
+### deepakharol
 
-divyamsi kunapareddy
+### Navya Kumar
 
-mohan manju
+### divyamsi kunapareddy
 
-Manas Maurya
+### mohan manju
 
-Saish Shetty
+### Manas Maurya
 
-Utkarsh Sinha
+### Saish Shetty
 
-supriti vijay
+### Utkarsh Sinha
+
+### supriti vijay
