@@ -8,6 +8,8 @@
 
 ### Shreya Chandana
 
+### Supriti Vijay
+
 ### Rajanika Debnath
 
 ### deepakharol
@@ -24,4 +26,3 @@
 
 ### Utkarsh Sinha
 
-### supriti vijay
