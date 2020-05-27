@@ -1,6 +1,6 @@
 # Major-Project-Submissions
 
-## Team Memembers:
+## Team Members:
 
 ### Kaustav Ghosh
 
