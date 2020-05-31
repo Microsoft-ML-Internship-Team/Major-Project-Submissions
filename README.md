@@ -12,7 +12,7 @@
 
 ### Rajanika Debnath
 
-### deepakharol
+### Deepak Kharol
 
 ### Navya Kumar
 
